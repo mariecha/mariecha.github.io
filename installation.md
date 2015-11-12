@@ -43,7 +43,7 @@ vous pouvez faire un "jekyll serve -w" -->  le "-w" sert à afficher les changem
 
 
 Mise à jour de Jekyll : 
-
+jelky
 //
 
 
@@ -54,7 +54,6 @@ aller sur le site : https://pages.github.com et suivre les instructions pour ré
 
 
 Sur le site github : créer un nouveau référentiel nommé nom d'utilisateur.github.io
-
 Cloner le dépôt : 
 entrer : git clone https://github.com/nom d'utilisateur/nom d'utilisateur.github.io
 
@@ -67,6 +66,6 @@ entrer : écho "bonjour tout le monde"> index.html
 Poussez : 
 entrer : git add .
 entrer : git commit -m "description de la modification"
-entrer : origin master -u git push
+entrer :  git push 
 
 
