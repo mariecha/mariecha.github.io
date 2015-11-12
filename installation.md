@@ -66,7 +66,7 @@ entrer : écho "bonjour tout le monde"> index.html
 
 Poussez : 
 entrer : git add .
-entrer : git commit -m "nom du fichier"
+entrer : git commit -m "description de la modification"
 entrer : origin master -u git push
 
 
